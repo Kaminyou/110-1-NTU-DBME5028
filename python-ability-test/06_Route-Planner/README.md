@@ -1,0 +1,1 @@
+This concise code is revised from student 邊鈞天's (r10922175) submission. We thank him for his contribution.
