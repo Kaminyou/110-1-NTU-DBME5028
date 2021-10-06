@@ -1,5 +1,5 @@
 # 110-1-NTU-DBME5028
-Useful material and tutorials for 110-1 NTU DBME5028 (Application of Deep Learning in Medical Imaging)
+Useful materials and tutorials for 110-1 NTU DBME5028 (Application of Deep Learning in Medical Imaging)
 
 ## Related Material
 - It is recommended to be familiar with **Python programming**, **Data structure**, **Algorithm**, and **Basic machine learning/ deep learning** concepts before you take this class.
