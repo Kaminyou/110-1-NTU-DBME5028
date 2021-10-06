@@ -10,7 +10,7 @@ Useful materials and tutorials for 110-1 NTU DBME5028 (Application of Deep Learn
     - NTU CSIE [Machine Learning](https://www.youtube.com/playlist?list=PLXVfgk9fNX2L9tQhO-Tqk58TzC6mTJ7OV) (Prof. Hsuan-Tien Lin)
     - NTU EE [Machine Learning (~DL)](http://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) (Prof. Hung-Yi Lee)
 
-
+- Basic PyTorch tutorial [link](https://www.youtube.com/watch?v=8DaeP2vSu90).
 ## Material for this class
 ### 20211006 Pre-test explanation
 Please refer to the [link](/python-ability-test).
