@@ -12,7 +12,7 @@ For main dependcies, you can install them directly from pip or `pip install -r r
 
 ```python
 cd [PATH_TO_DIR_WITH_README]
-python ./scripts/run_tune_examples.py
+RAY_OBJECT_STORE_ALLOW_SLOW_STORAGE=1 python ./scripts/run_tune_examples.py
 ```
 
 [Example for run xgboost scripts](./scripts/run_pixels_fit.py) which let you can play around eaiser.
