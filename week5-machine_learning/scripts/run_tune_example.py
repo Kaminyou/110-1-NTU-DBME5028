@@ -10,8 +10,6 @@ df = analysis.trial_dataframes
 import sys
 import os
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 from random import shuffle
 from collections import deque
 from dataclasses import dataclass, asdict
@@ -24,6 +22,7 @@ from ray import tune
 sys.path.append(".")
 from src.utils import load_and_process_digits
 from src.models import LogisticRegressionTorch
+
 
 def simple_loader(inputs, targets, batch_size=128, shuffle_per_iteration=20):
     index = 0
@@ -107,6 +106,7 @@ def train_digits(config: dict):
             patient_counter += 1
 
     return model, train_losses, valid_losses
+
 
 @dataclass
 class TrainConfig:

@@ -30,7 +30,7 @@ def load_image_targets(input_path, target_path):
     return np.array(inputs), np.concatenate(targets).ravel().astype(np.float32)
 
 
-def show_example_images(image_array, figsize=(8,8), n_grid_x=10):
+def show_example_images(image_array, figsize=(8, 8), n_grid_x=10):
     n_images = len(image_array)
     n_grid_y = (n_images // n_grid_x)
 
@@ -67,6 +67,7 @@ def get_result_metrics(y_true, y_score, score_threshold=0.5):
         "precision": precision_
     }
     return output
+
 
 def load_and_process_digits():
     digits_data = load_digits()

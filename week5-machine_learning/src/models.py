@@ -1,9 +1,9 @@
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 
-import torch
 import torch.nn as nn
 import xgboost as xgb
+
 
 class Trainer:
     def __init__(self, method):
@@ -73,5 +73,3 @@ class LogisticRegressionTorch(nn.Module):
     def forward(self, x):
         outputs = self.linear(x)
         return outputs
-
-

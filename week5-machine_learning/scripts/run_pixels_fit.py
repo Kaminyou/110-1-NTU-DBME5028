@@ -10,9 +10,6 @@ from collections import defaultdict
 from glob import glob
 from pathlib import Path
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
-
-import xgboost as xgb
 
 sys.path.append(".")
 from src.utils import load_image_targets, get_result_metrics
