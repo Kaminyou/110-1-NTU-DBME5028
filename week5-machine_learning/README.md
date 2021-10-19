@@ -8,7 +8,7 @@ For main dependcies, you can install them directly from pip or `pip install -r r
 [Complex examples](./notebooks/demo-code-03-PCAM.ipynb)
 
 ### Scripts
-[Example for tuning hyper-parameters with Ray-Tune](./scripts/run_tune_examples.py)
+[Example for tuning hyper-parameters with Ray-Tune](./scripts/run_tune_example.py)
 
 ```python
 cd [PATH_TO_DIR_WITH_README]
