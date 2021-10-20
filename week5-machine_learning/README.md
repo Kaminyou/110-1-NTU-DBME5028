@@ -3,7 +3,7 @@
 For main dependcies, you can install them directly from pip or `pip install -r requirements.txt`
 
 ### Notebooks
-[Logistic Regression with pyTorch](./notebooks/demo-code-01-Logistic.ipynb)  
+[Logistic Regression with PyTorch](./notebooks/demo-code-01-Logistic.ipynb)  
 [Some skills to deal overfitting & confidence interval estimation](./notebooks/demo-code-02-Overfitting-and-CIEstimation.ipynb)  
 [Complex examples](./notebooks/demo-code-03-PCAM.ipynb)
 
