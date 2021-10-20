@@ -12,5 +12,5 @@ Useful materials and tutorials for 110-1 NTU DBME5028 (Application of Deep Learn
 
 - Basic PyTorch tutorial [link](https://www.youtube.com/watch?v=8DaeP2vSu90).
 ## Material for this class
-### 20211006 Pre-test explanation
-Please refer to the [link](/python-ability-test).
+### Week 2 || 20211006 || [Pre-test explanation](/week2-test/python-ability-test)
+### Week 5 || 20211020 || [Machine learning](/week5-machine_learning/)
